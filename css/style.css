@@ -1,0 +1,36 @@
+
+html{
+  text-align: center;
+}
+.header{
+  text-align: left;
+  word-spacing: 140px;
+}
+.banner{
+  width:100%;
+  height: 80px;
+  background-image: url('../images/banner.png');
+}
+.main{
+  margin: auto 12%;
+  width: 80%
+}
+aside{
+  float:right;
+  width:20%;
+  height:100%;
+}
+
+article{
+  float:left;
+  width:80%;
+}
+.circularImage{
+  margin: none;
+  padding: none;
+}
+
+footer{
+  border: solid black 1px;
+  clear:both;
+}
